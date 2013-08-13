@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+	<properties version="1.0">
+	<comment>Polski (pl_PL) Localization File</comment>
+
+	<!-- Creative Mode Tabs -->
+	<entry key="itemGroup.tabBows">Łuki</entry>
+	<entry key="itemGroup.tabArrows">Strzały</entry>
+
+	<!-- Blocks -->
+	<entry key="tile.tileEntityTorch.name">Pochodnia w Bloku</entry>
+
+	<entry key="item.quiver.name">Kołczan</entry>
+
+	<!-- Bows -->
+	<entry key="item.quiverBow.name">Łuk</entry>
+	<entry key="item.quiverBowRecurve.name">Trzyczęściowy Łuk</entry>
+	<entry key="item.quiverBowYumi.name">Yumi</entry>
+	<entry key="item.quiverBowLong.name">Długi Łuk</entry>
+	<entry key="item.quiverBowComposite.name">Łuk Kompozytowy</entry>
+
+	<!-- Arrows -->
+	<entry key="item.arrow.name.plural">Strzały</entry>
+	<entry key="item.fireArrow.name">Ognista Strzała</entry>
+	<entry key="item.fireArrow.name.plural">Ogniste Strzały</entry>
+	<entry key="item.impactArrow.name">Strzała Wybuchająca</entry>
+	<entry key="item.impactArrow.name.plural">Wybuchające Strzały</entry>
+	<entry key="item.timedArrow.name">Strzała z Opóźnieniem Wybuchu</entry>
+	<entry key="item.timedArrow.name.plural">Strzały Wybuchowe z Opóźnieniem</entry>
+	<entry key="item.enderArrow.name">Strzała Endu</entry>
+	<entry key="item.enderArrow.name.plural">Strzały Endu</entry>
+	<entry key="item.torchArrow.name">Strzała z Pochodnią</entry>
+	<entry key="item.torchArrow.name.plural">Strzały z Pochodnią</entry>
+	<entry key="item.drillArrow.name">Strzała z Wiertłem</entry>
+	<entry key="item.drillArrow.name.plural">Strzały z Wiertłem</entry>
+	<entry key="item.potionArrow.name">Strzała z Miskturą</entry>
+	<entry key="item.potionArrow.name.plural">Strzały z Miksturą</entry>
+
+	<!-- Crafting Items -->
+	<entry key="item.sinew.name">Ścięgno</entry>
+	<entry key="item.bottledRottenFlesh.name">Zabutelkowane Zgniłe Mięso</entry>
+	<entry key="item.hideGlue.name">Butelka Tłuszczu</entry>
+
+	<!-- Prefixes/postfixes -->
+	<entry key="quiverModBow.prefix.broken">Rozstrojony</entry>
+	<entry key="quiverModArrow.splitting.usePlural">true</entry>
+	<entry key="quiverModArrow.splitting.prefix.beforeNum"></entry>
+	<entry key="quiverModArrow.splitting.prefix.afterNum"> Uszkodzone</entry>
+	<entry key="quiverModArrow.splitting.postfix"></entry>
+	<entry key="quiverModArrow.prefix.broken">Złamana</entry>
+</properties>
+

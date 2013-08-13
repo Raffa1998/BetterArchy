@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+	<properties version="1.0">
+	<comment>English (en_US) Localization File</comment>
+
+	<!-- Creative Mode Tabs -->
+	<entry key="itemGroup.tabBows">Bows</entry>
+	<entry key="itemGroup.tabArrows">Arrows</entry>
+
+	<!-- Blocks -->
+	<entry key="tile.tileEntityTorch.name">Tile Entity Torch Block</entry>
+
+	<entry key="item.quiver.name">Quiver</entry>
+
+	<!-- Bows -->
+	<entry key="item.quiverBow.name">Bow</entry>
+	<entry key="item.quiverBowRecurve.name">Recurve Bow</entry>
+	<entry key="item.quiverBowYumi.name">Yumi</entry>
+	<entry key="item.quiverBowLong.name">Longbow</entry>
+	<entry key="item.quiverBowComposite.name">Composite Bow</entry>
+
+	<!-- Arrows -->
+	<entry key="item.arrow.name.plural">Arrows</entry>
+	<entry key="item.fireArrow.name">Flaming Arrow</entry>
+	<entry key="item.fireArrow.name.plural">Flaming Arrows</entry>
+	<entry key="item.impactArrow.name">Impact Explosive Arrow</entry>
+	<entry key="item.impactArrow.name.plural">Impact Explosive Arrows</entry>
+	<entry key="item.timedArrow.name">Timed Fuse Arrow</entry>
+	<entry key="item.timedArrow.name.plural">Timed Fuse Arrows</entry>
+	<entry key="item.enderArrow.name">Ender Arrow</entry>
+	<entry key="item.enderArrow.name.plural">Ender Arrows</entry>
+	<entry key="item.torchArrow.name">Torch Arrow</entry>
+	<entry key="item.torchArrow.name.plural">Torch Arrows</entry>
+	<entry key="item.drillArrow.name">Drill Arrow</entry>
+	<entry key="item.drillArrow.name.plural">Drill Arrows</entry>
+	<entry key="item.potionArrow.name">Potion Arrow</entry>
+	<entry key="item.potionArrow.name.plural">Potion Arrows</entry>
+
+	<!-- Crafting Items -->
+	<entry key="item.sinew.name">Sinew</entry>
+	<entry key="item.bottledRottenFlesh.name">Bottled Rotten Flesh</entry>
+	<entry key="item.hideGlue.name">Bottled Hide Glue</entry>
+
+	<!-- Prefixes/Postfixes -->
+	<entry key="quiverModBow.prefix.broken">Unstrung</entry>
+	<entry key="quiverModArrow.splitting.usePlural">false</entry>
+	<entry key="quiverModArrow.splitting.prefix.beforeNum"></entry>
+	<entry key="quiverModArrow.splitting.prefix.afterNum">-Splitting</entry>
+	<entry key="quiverModArrow.splitting.postfix"></entry>
+	<entry key="quiverModArrow.prefix.broken">Broken</entry>
+</properties>

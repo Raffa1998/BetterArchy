@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+	<properties version="1.0">
+	<comment>English (en_US) Localization File</comment>
+
+	<!-- Creative Mode Tabs -->
+	<entry key="itemGroup.tabBows">Weapons at Range</entry>
+	<entry key="itemGroup.tabArrows">Bolts</entry>
+
+	<!-- Blocks -->
+	<entry key="tile.tileEntityTorch.name">Tile Entity Torch Block</entry>
+
+	<entry key="item.quiver.name">Bolt Pouch</entry>
+
+	<!-- Bows -->
+	<entry key="item.quiverBow.name">Musket</entry>
+	<entry key="item.quiverBowRecurve.name">Rifle</entry>
+	<entry key="item.quiverBowYumi.name">Bow From O'er The Sea</entry>
+	<entry key="item.quiverBowLong.name">Longshot</entry>
+	<entry key="item.quiverBowComposite.name">Pistol</entry>
+
+	<!-- Arrows -->
+	<entry key="item.arrow.name.plural">Bolts</entry>
+	<entry key="item.fireArrow.name">Pillagin' Bolt</entry>
+	<entry key="item.fireArrow.name.plural">Pillagin' Bolts</entry>
+	<entry key="item.impactArrow.name">Singein' Bolt</entry>
+	<entry key="item.impactArrow.name.plural">Singein' Bolts</entry>
+	<entry key="item.timedArrow.name">Bomb Bolt</entry>
+	<entry key="item.timedArrow.name.plural">Bomb Bolts</entry>
+	<entry key="item.enderArrow.name">Bolt o' Tall Man's Power</entry>
+	<entry key="item.enderArrow.name.plural">Bolts o' Tall Man's Power</entry>
+	<entry key="item.torchArrow.name">Bolt Wi' a Rod o' Flames</entry>
+	<entry key="item.torchArrow.name.plural">Bolts Wi' a Rods o' Flames</entry>
+	<entry key="item.drillArrow.name">Hull-Breachin' Bolt</entry>
+	<entry key="item.drillArrow.name.plural">Hull-Breachin' Bolts</entry>
+	<entry key="item.potionArrow.name">Bolt o' Drunkenness</entry>
+	<entry key="item.potionArrow.name.plural">Bolts o' Drunkenness</entry>
+
+	<!-- Crafting Items -->
+	<entry key="item.sinew.name">Dried Muscles</entry>
+	<entry key="item.bottledRottenFlesh.name">Bottle o' Putrid Rations</entry>
+	<entry key="item.hideGlue.name">Bottle o' Sticky Goo</entry>
+
+	<!-- Prefixes/Postfixes -->
+	<entry key="quiverModBow.prefix.broken">Stripped</entry>
+	<entry key="quiverModArrow.splitting.usePlural">true</entry>
+	<entry key="quiverModArrow.splitting.prefix.beforeNum">Be Rainin' </entry>
+	<entry key="quiverModArrow.splitting.prefix.afterNum"></entry>
+	<entry key="quiverModArrow.splitting.postfix"> On 'Em</entry>
+	<entry key="quiverModArrow.prefix.broken">Useless</entry>
+</properties>
